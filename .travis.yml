@@ -4,4 +4,4 @@ notifications:
 before_install:
   - npm install -g dredd@stable
 before_script:
-  - dredd apiary.apib http://polls.apiblueprint.org/
+  - dredd apiary.apib http://polls.apiblueprint.org/ --reporter=apiary
