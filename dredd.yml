@@ -1,0 +1,7 @@
+reporter: apiary
+custom:
+  - "apiaryApiKey:42d7eb2ddce362e3fd1b483ded1319e0"
+  - "apiaryApiName:raoulvanwoerkom"
+init: false
+blueprint: apiary.apib
+endpoint: "http://polls.apiblueprint.org/"
