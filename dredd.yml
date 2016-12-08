@@ -5,7 +5,6 @@ custom:
 dry-run: null
 hookfiles: "dreddhooks.js"
 sandbox: false
-server: rails server
 server-wait: 3
 init: false
 names: false
